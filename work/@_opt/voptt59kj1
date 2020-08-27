@@ -1,0 +1,40 @@
+library verilog;
+use verilog.vl_types.all;
+entity ex is
+    port(
+        rst             : in     vl_logic;
+        stall           : out    vl_logic;
+        aluop           : in     vl_logic_vector(7 downto 0);
+        alusel          : in     vl_logic_vector(2 downto 0);
+        reg1            : in     vl_logic_vector(31 downto 0);
+        reg2            : in     vl_logic_vector(31 downto 0);
+        we_i            : in     vl_logic;
+        waddr_i         : in     vl_logic_vector(4 downto 0);
+        hi_i            : in     vl_logic_vector(31 downto 0);
+        lo_i            : in     vl_logic_vector(31 downto 0);
+        mem_we_hilo     : in     vl_logic;
+        mem_hi          : in     vl_logic_vector(31 downto 0);
+        mem_lo          : in     vl_logic_vector(31 downto 0);
+        wb_we_hilo      : in     vl_logic;
+        wb_hi           : in     vl_logic_vector(31 downto 0);
+        wb_lo           : in     vl_logic_vector(31 downto 0);
+        count_i         : in     vl_logic_vector(1 downto 0);
+        hilo_i          : in     vl_logic_vector(63 downto 0);
+        div_ready       : in     vl_logic;
+        div_result      : in     vl_logic_vector(63 downto 0);
+        is_in_slot      : in     vl_logic;
+        link_addr       : in     vl_logic_vector(31 downto 0);
+        count_o         : out    vl_logic_vector(1 downto 0);
+        hilo_o          : out    vl_logic_vector(63 downto 0);
+        div_start       : out    vl_logic;
+        div_signed      : out    vl_logic;
+        div_opdata1     : out    vl_logic_vector(31 downto 0);
+        div_opdata2     : out    vl_logic_vector(31 downto 0);
+        we_hilo         : out    vl_logic;
+        hi_o            : out    vl_logic_vector(31 downto 0);
+        lo_o            : out    vl_logic_vector(31 downto 0);
+        we_o            : out    vl_logic;
+        waddr_o         : out    vl_logic_vector(4 downto 0);
+        wdata_o         : out    vl_logic_vector(31 downto 0)
+    );
+end ex;

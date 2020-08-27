@@ -1,0 +1,304 @@
+m255
+K3
+13
+cModel Technology
+dD:\Software\Modelsim\examples
+T_opt
+V[MhR@f^>b=oP1FQh]46Ai1
+04 11 4 work tb_sopc_min fast 0
+=1-b06ebf0f66d4-5f471429-1dd-3648
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1a;51
+vctrl
+IQ]8jaKWoiZIVUj?MnQTC@2
+V^3XzY?dcLjk8ae:Q4OjNS1
+Z0 dE:\Codes\VerilogHDL\OpenMIPS
+w1596535047
+8E:/Codes/VerilogHDL/OpenMIPS/ctrl.v
+FE:/Codes/VerilogHDL/OpenMIPS/ctrl.v
+L0 2
+Z1 OE;L;10.1a;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 VP8He0fj?lTBcRkUdzh>n2
+!s90 -reportprogress|300|-work|work|-vopt|E:/Codes/VerilogHDL/OpenMIPS/ctrl.v|
+!s108 1598493615.194000
+!s107 defines.v|E:/Codes/VerilogHDL/OpenMIPS/ctrl.v|
+!i10b 1
+!s85 0
+vdiv
+Io84]V0X;:DL69zIe6Sak<1
+V_jJIQDjC>2<cAWnnDehH_2
+Z3 dE:\Codes\VerilogHDL\OpenMIPS
+w1596546837
+8E:/Codes/VerilogHDL/OpenMIPS/div.v
+FE:/Codes/VerilogHDL/OpenMIPS/div.v
+L0 2
+R1
+r1
+31
+R2
+!s100 :VO^O^KN=3gAinZ0Phh_m3
+!s90 -reportprogress|300|-work|work|-vopt|E:/Codes/VerilogHDL/OpenMIPS/div.v|
+!s108 1596617885.583000
+!s107 defines.v|E:/Codes/VerilogHDL/OpenMIPS/div.v|
+!i10b 1
+!s85 0
+vex
+ICP@E0NHRIodnjh[?dF7:c0
+Vmbhoi>l`YmG>:<ge3aTPh3
+R3
+w1596616243
+8E:/Codes/VerilogHDL/OpenMIPS/ex.v
+FE:/Codes/VerilogHDL/OpenMIPS/ex.v
+L0 2
+R1
+r1
+31
+R2
+!s100 DB?nC>7Ccgd^E0UE05@^g2
+!s108 1598493615.803000
+!s107 defines.v|E:/Codes/VerilogHDL/OpenMIPS/ex.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/Codes/VerilogHDL/OpenMIPS/ex.v|
+!i10b 1
+!s85 0
+vex_mem
+IfjD1o=0>2Jl^b]L:Ja=kF1
+V4TDIj[d;Y5Q]_feQDS]eJ3
+R3
+w1596528723
+8E:/Codes/VerilogHDL/OpenMIPS/ex_mem.v
+FE:/Codes/VerilogHDL/OpenMIPS/ex_mem.v
+L0 2
+R1
+r1
+31
+R2
+!s100 zADUi4k<onJ_CB]CLD7=k1
+!s108 1598493616.115000
+!s107 defines.v|E:/Codes/VerilogHDL/OpenMIPS/ex_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/Codes/VerilogHDL/OpenMIPS/ex_mem.v|
+!i10b 1
+!s85 0
+vhi_lo
+I@<L:9A:QzK^hHhfEl=ZI>0
+V=i4]46:S5c`gkY[H2YYe11
+R3
+w1596435990
+8E:/Codes/VerilogHDL/OpenMIPS/hi_lo.v
+FE:/Codes/VerilogHDL/OpenMIPS/hi_lo.v
+L0 2
+R1
+r1
+31
+R2
+!s100 o<mMe3@5NeEO`ICi4h<`80
+!s90 -reportprogress|300|-work|work|-vopt|E:/Codes/VerilogHDL/OpenMIPS/hi_lo.v|
+!s108 1598493616.365000
+!s107 defines.v|E:/Codes/VerilogHDL/OpenMIPS/hi_lo.v|
+!i10b 1
+!s85 0
+vid
+IUTK6b2lJJCLVBJ1?bjk_e1
+VojESDzlnif7?GVXj0iR6Y2
+R3
+w1596617860
+8E:/Codes/VerilogHDL/OpenMIPS/id.v
+FE:/Codes/VerilogHDL/OpenMIPS/id.v
+L0 2
+R1
+r1
+31
+R2
+!s100 e4CQ][z]KkVEWZ::<c_nD3
+!s108 1598493616.662000
+!s107 defines.v|E:/Codes/VerilogHDL/OpenMIPS/id.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/Codes/VerilogHDL/OpenMIPS/id.v|
+!i10b 1
+!s85 0
+vid_ex
+Ie[ze4mYADFZgkofUPVS^P0
+VV6Q:P]1e8QVCZ>LD94eF53
+R3
+w1596624895
+8E:/Codes/VerilogHDL/OpenMIPS/id_ex.v
+FE:/Codes/VerilogHDL/OpenMIPS/id_ex.v
+L0 2
+R1
+r1
+31
+R2
+!s100 3;l<<KdnB2nh6U^mM3eF=3
+!s108 1596630505.060000
+!s107 defines.v|E:/Codes/VerilogHDL/OpenMIPS/id_ex.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/Codes/VerilogHDL/OpenMIPS/id_ex.v|
+!i10b 1
+!s85 0
+vif_id
+I]SeAXR_P6>H7^0^1EPnRH2
+V_I<Q7GoH>S@_KKcJn1==N2
+R3
+Z4 w1596617589
+Fif_id.v
+Z5 8E:/Codes/VerilogHDL/OpenMIPS/openmips.v
+Z6 FE:/Codes/VerilogHDL/OpenMIPS/openmips.v
+L0 3
+R1
+r1
+31
+Z7 !s108 1596617883.675000
+Z8 !s107 mem_wb.v|mem.v|ex_mem.v|ex.v|id_ex.v|id.v|if_id.v|regfile.v|pc.v|defines.v|E:/Codes/VerilogHDL/OpenMIPS/openmips.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|E:/Codes/VerilogHDL/OpenMIPS/openmips.v|
+R2
+!s100 m7I=h0FSkal4RTN[RQ=CU0
+!i10b 1
+!s85 0
+vmem
+IYJ[UK]bIf?9Q;?iWfELio0
+VJoEL_XTOBG?aE<<ckoU^L3
+R3
+R4
+Fmem.v
+R5
+R6
+L0 2
+R1
+r1
+31
+R7
+R8
+R9
+R2
+!s100 6PUM_Y13`RHNTNcG?;Aff1
+!i10b 1
+!s85 0
+vmem_wb
+IQ7^lJzHFanT4mGF;GgdE[1
+VaJ`XCiK8CIAPOO18FKP[e0
+R3
+R4
+Fmem_wb.v
+R5
+R6
+L0 2
+R1
+r1
+31
+R7
+R8
+R9
+R2
+!s100 hjcKb=G4_S`EXa^jEXjMX2
+!i10b 1
+!s85 0
+vopenmips
+Iok2jU59bAG7Y@W^Cmf:hT2
+VCd8V@^mSn0>in<8=dMbN01
+R3
+R4
+R5
+R6
+L0 12
+R1
+r1
+31
+R7
+R8
+R9
+R2
+!s100 PNId5nFVU1?gA8odK0SDT1
+!i10b 1
+!s85 0
+vpc
+I`hHVlJ3Z<H0YZB1a5;H=23
+VW7IEPz7d;N2e1c`M:k8PF0
+R3
+w1596603734
+8E:/Codes/VerilogHDL/OpenMIPS/pc.v
+FE:/Codes/VerilogHDL/OpenMIPS/pc.v
+L0 2
+R1
+r1
+31
+R2
+!s100 kUa;_K4VC]2jaL`d:PmbR1
+!s108 1596617884.698000
+!s107 defines.v|E:/Codes/VerilogHDL/OpenMIPS/pc.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/Codes/VerilogHDL/OpenMIPS/pc.v|
+!i10b 1
+!s85 0
+vregfile
+IQ4X?<>ze4md<GD?EeQ]bn2
+VLEdU;cdG9T?Y<K8CH8aT^3
+R3
+w1596340443
+8E:/Codes/VerilogHDL/OpenMIPS/regfile.v
+FE:/Codes/VerilogHDL/OpenMIPS/regfile.v
+L0 2
+R1
+r1
+31
+R2
+!s100 jSkXQ]Yh`BP=@fFha]GSX0
+!s108 1596617884.839000
+!s107 defines.v|E:/Codes/VerilogHDL/OpenMIPS/regfile.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:/Codes/VerilogHDL/OpenMIPS/regfile.v|
+!i10b 1
+!s85 0
+vrom
+I_0oQ>fl?dSmii33_K3b9a1
+VeX1COb4z2;4Om84;79IXZ0
+R3
+w1598493721
+8E:/Codes/VerilogHDL/OpenMIPS/rom.v
+FE:/Codes/VerilogHDL/OpenMIPS/rom.v
+L0 2
+R1
+r1
+31
+R2
+!s90 -reportprogress|300|-work|work|-vopt|E:/Codes/VerilogHDL/OpenMIPS/rom.v|
+!i10b 1
+!s100 nP;dEB?haB_7;`bQAK9B43
+!s85 0
+!s108 1598493728.823000
+!s107 defines.v|E:/Codes/VerilogHDL/OpenMIPS/rom.v|
+vsopc_min
+II1m0<^j8f;F3Wg29F6OcW3
+VQVVn0W2b;YiOgme?R>QCh1
+R3
+Z10 w1596550217
+Fsopc_min.v
+Z11 8E:/Codes/VerilogHDL/OpenMIPS/tb_sopc_min.v
+Z12 FE:/Codes/VerilogHDL/OpenMIPS/tb_sopc_min.v
+L0 2
+R1
+r1
+31
+Z13 !s108 1596617885.339000
+Z14 !s107 sopc_min.v|defines.v|E:/Codes/VerilogHDL/OpenMIPS/tb_sopc_min.v|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|E:/Codes/VerilogHDL/OpenMIPS/tb_sopc_min.v|
+R2
+!s100 dMFBG^@aCVoYP@c0jYF7T0
+!i10b 1
+!s85 0
+vtb_sopc_min
+I0?iRFkV`0_6Cij8^17FBN0
+Vm>cVXbJ;bH=PP15n1ajNa1
+R3
+R10
+R11
+R12
+L0 4
+R1
+r1
+31
+R13
+R14
+R15
+R2
+!s100 c1@F>j;JCG]_LhQ1Fg3^A3
+!i10b 1
+!s85 0

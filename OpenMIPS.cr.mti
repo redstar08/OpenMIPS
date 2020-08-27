@@ -1,0 +1,126 @@
+E:/Codes/VerilogHDL/OpenMIPS/div.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/div.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module div
+
+Top level modules:
+	div
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/ctrl.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/ctrl.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ctrl
+
+Top level modules:
+	ctrl
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/mem_wb.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/mem_wb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mem_wb
+
+Top level modules:
+	mem_wb
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/sopc_min.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/sopc_min.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module sopc_min
+
+Top level modules:
+	sopc_min
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/id_ex.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/id_ex.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module id_ex
+
+Top level modules:
+	id_ex
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/pc.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/pc.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/openmips.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/openmips.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module pc
+-- Compiling module regfile
+-- Compiling module if_id
+-- Compiling module id
+-- Compiling module id_ex
+-- Compiling module ex
+-- Compiling module ex_mem
+-- Compiling module mem
+-- Compiling module mem_wb
+-- Compiling module openmips
+
+Top level modules:
+	openmips
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/ex_mem.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/ex_mem.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ex_mem
+
+Top level modules:
+	ex_mem
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/if_id.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/if_id.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module if_id
+
+Top level modules:
+	if_id
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/hi_lo.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/hi_lo.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module hi_lo
+
+Top level modules:
+	hi_lo
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/ex.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/ex.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ex
+
+Top level modules:
+	ex
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/tb_sopc_min.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/tb_sopc_min.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module sopc_min
+-- Compiling module tb_sopc_min
+
+Top level modules:
+	tb_sopc_min
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/id.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/id.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module id
+
+Top level modules:
+	id
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/rom.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/rom.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/defines.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/defines.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/regfile.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/regfile.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} E:/Codes/VerilogHDL/OpenMIPS/mem.v {1 {vlog -work work -vopt E:/Codes/VerilogHDL/OpenMIPS/mem.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mem
+
+Top level modules:
+	mem
+
+} {} {}}
